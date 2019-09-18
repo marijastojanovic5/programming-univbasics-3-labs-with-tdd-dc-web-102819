@@ -1,2 +1,2 @@
 # Add your variables here
-first_number(x,y)
+ first_number = get_variable_from_file
